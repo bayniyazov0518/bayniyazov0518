@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @bayniyazov0518
+- 👋 Assalawma aleykum, men @bayniyazov0518
 - 👀 I’m interested in web design
+- 👀 Men Veb dizayınǧa qıziǧaman
 - 🌱 I’m currently learning css and js/ts
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 Men házirde css hám js/ts úyrenip atırman ... 
+- 📫 How to reach me bayniyazov0518@gmail.com ...
+- 📫 Meniń menen baylanısıw ushın bayniyazov0518@gmail.com ...
 
 <!---
-bayniyazov0518/bayniyazov0518 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+https://github.com/bayniyazov0518/bayniyazov0518/edit/main/README.md
 --->
